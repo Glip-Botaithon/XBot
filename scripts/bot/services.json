@@ -1,0 +1,14 @@
+[{
+    "name": "tw",
+    "host": "127.0.0.1",
+    "port": "5000",
+    "config": {
+        "deploy_dir": "/Users/vince.wu/tmp/deploy/tw",
+        "git_repo": "git@gitlab.com:kikimo/testweb.git",
+        "git_branch": "master",
+        "log_dir": "/Users/vince.wu/tmp/deploy/logs",
+        "app_name": "testweb",
+        "host": "127.0.0.1",
+        "port": "9889"
+    }
+}]

@@ -1,0 +1,10 @@
+node_modules
+.DS_Store*
+.hubot_history
+.secret
+.env
+nodes.json
+t.js
+*.swp
+run.back.sh
+
