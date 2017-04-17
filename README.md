@@ -1,7 +1,7 @@
 # XBot
 
 * XBot(this project)
-* A customized [glip hubot adapter](git@github.com:kikimo/hubot-glip.git)
+* A customized [glip hubot adapter](https://github.com/kikimo/hubot-glip)
 
 ## supported commands
 
